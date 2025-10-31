@@ -1,0 +1,14 @@
+Month,Region,Product,Units_Sold,Revenue,Profit
+Jan,North,TV,120,480000,96000
+Jan,South,Mobile,200,600000,150000
+Feb,North,TV,100,400000,80000
+Feb,East,Laptop,80,640000,128000
+Mar,West,Mobile,250,750000,187500
+Mar,South,Laptop,90,720000,144000
+Apr,North,TV,130,520000,104000
+Apr,East,Mobile,220,660000,165000
+May,West,Laptop,100,800000,160000
+May,South,TV,140,560000,112000
+Jun,North,Mobile,180,540000,135000
+Jun,East,Laptop,120,960000,192000
+
